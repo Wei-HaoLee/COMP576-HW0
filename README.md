@@ -1,2 +1,3 @@
 # COMP576-HW0
-Project for the HW0
+
+This is a demo project.
